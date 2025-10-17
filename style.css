@@ -21,14 +21,14 @@ body {
 
 .heading {
   font-family: 'Bahnschrift SemiBold';
-  color: #8D6F64;
   text-align: center;
-  font-size: 120px;
   padding: 10px;
   border-radius: 10px;
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  font-size: 120px;
+  color: #8D6F64;
 }
 
 .candle-count-display span {
