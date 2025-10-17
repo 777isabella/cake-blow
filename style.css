@@ -19,6 +19,13 @@ body {
   border: 2px solid #553C13;
 }
 
+.heading {
+  font-family: 'Bahnschrift SemiBold';
+  color: #B1DBC5;
+  text-align: center;
+  
+}
+
 .candle-count-display span {
   font-weight: bold;
   color: #AD030F;
