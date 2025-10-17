@@ -195,6 +195,6 @@ body {
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
-  font-size: 120px;
-  color: #8D6F64;
+  font-size: 120px !important;
+  color: #8D6F64 !important;
 }
