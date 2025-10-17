@@ -198,3 +198,15 @@ body {
   font-size: 80px !important;
   color: #8D6F64 !important;
 }
+
+/* Media query for smaller screens (mobile devices) */
+@media (max-width: 768px) {
+  .heading {
+    font-size: 30px !important; /* Adjust font size for tablets and larger phones */
+  }
+}
+
+@media (max-width: 480px) {
+  .heading {
+    font-size: 30px !important; /* Adjust font size for smaller phones */
+  }
